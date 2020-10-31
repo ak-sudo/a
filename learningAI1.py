@@ -96,10 +96,10 @@ if __name__ == "__main__":
         elif "something about you" in query:
             speak("Hey there, i am aisha a self learning A I")
 
-        elif "hi" in query:
+        elif "hey" in query:
             speak("hi, nice to meet you")
 
-        elif "whp is" in query:
+        elif "who is" in query:
             speak("ok, Please wait.")
             query = query.replace("wikipedia", "")
             results = wikipedia.summary(query, sentences=4)
