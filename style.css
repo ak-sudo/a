@@ -1,0 +1,19 @@
+body {
+    text-decoration: none;
+    word-spacing: 2px;
+    text-align: center;
+    background: black;
+
+}
+.container h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightskyblue;
+    padding-top: 5%;
+
+}
+.container h3{
+    color: lightgreen;
+}
+.container h3 a{
+    color: lightsteelblue;
+}
